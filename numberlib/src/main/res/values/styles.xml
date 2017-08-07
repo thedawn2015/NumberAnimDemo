@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberAnimTextView">
+        <attr name="numStart" format="string"/>
+        <attr name="numEnd" format="string"/>
+        <attr name="size" format="dimension"/>
+        <attr name="color" format="color"/>
+        <attr name="duration" format="integer"/>
+        <attr name="isAnim" format="boolean"/>
+    </declare-styleable>
+</resources>
